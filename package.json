@@ -34,6 +34,10 @@
     "ngx-infinite-scroll": "8.0.0",
     "ngx-webstorage": "4.0.1",
     "rxjs": "6.5.2",
+<<<<<<< HEAD
+=======
+    "swagger-ui": "3.18.0",
+>>>>>>> 9eebff4dec485d493be48c7703f713884b68ee3a
     "sockjs-client": "1.3.0",
     "swagger-ui": "^3.23.11",
     "tslib": "1.10.0",
@@ -72,7 +76,7 @@
     "file-loader": "4.2.0",
     "fork-ts-checker-webpack-plugin": "1.5.0",
     "friendly-errors-webpack-plugin": "1.7.0",
-    "generator-jhipster": "6.3.0",
+    "generator-jhipster": "6.3.1",
     "html-loader": "0.5.5",
     "html-webpack-plugin": "3.2.0",
     "husky": "3.0.4",
