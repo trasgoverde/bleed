@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="555px" height="443px" viewBox="0 0 555 443" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50 (54983) - http://www.bohemiancoding.com/sketch -->
+    <title>Mask</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M222.416904,450.209446 C381.548999,450.209446 554.459756,299.539371 554.459756,147.039207 C554.459756,-5.46095774 375.44038,-6.26754544 222.416904,22.817634 C127.52222,40.854271 1.16202585e-14,117.039207 0,268.392864 C0,392.546131 112.608421,450.209446 222.416904,450.209446 Z" id="path-1"></path>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="orca-facelift-europa" transform="translate(-744.000000, -3983.000000)">
+            <g id="citata" transform="translate(744.000000, 3975.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#F7F8FA" transform="translate(277.229878, 229.104723) scale(-1, 1) translate(-277.229878, -229.104723) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
