@@ -7,10 +7,25 @@
 Bootstrap tweaks
 ===============================================================*/
 
-body,
-h1,
-h2,
-h3,
+body
+{
+  //background-color: #1c1e7c;
+  background-clip: '/src/main/webapp/content/images/source_logo.gif'; 
+}
+h1
+{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: 600;
+  font-size: large;
+}
+h2
+{
+  font-weight: 500;
+}
+h3
+{
+  font-weight: 400;
+}
 h4 {
   font-weight: 300;
 }
